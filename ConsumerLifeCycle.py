@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 """
+File: Consume Life Cycle - Customer Churn Rate Analysis
 Created on Sep 15, 2020
 #File(s): telco_customerchurn.csv
-@author: BIVentures
+@Author: BIVentures
 """
 
 # Import the os module
